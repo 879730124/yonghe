@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="yongheproject:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/yongheproject_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="yongheproject/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="yongheproject" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
